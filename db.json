@@ -1,0 +1,321 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Siri",
+      "role": "User",
+      "password": "Siri@123",
+      "username": "Sireesha",
+      "email": "Siri@gmail.com",
+      "phone": 9490128225,
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "balance": 2000,
+      "currentbalance": 3600,
+      "pan": "678954345678",
+      "account": "678909876543",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 2,
+      "name": "Gayatri",
+      "role": "User",
+      "password": "Gayatri@123",
+      "username": "Gayatri",
+      "email": "Gayatri@gmail.com",
+      "phone": 7995698706,
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      },
+      "balance": 1300,
+      "currentbalance": 900,
+      "pan": "124567891234",
+      "account": "567890987654",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 3,
+      "name": "Tanuja",
+      "role": "User",
+      "password": "Tanuja@123",
+      "username": "Tanu",
+      "email": "Tanuja@gmail.com",
+      "phone": 9959620286,
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "balance": 2300,
+      "currentbalance": 2500,
+      "pan": "345678923456",
+      "account": "456789098756",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 4,
+      "name": "Azith",
+      "role": "User",
+      "password": "Azith@123",
+      "username": "Azith",
+      "email": "Azith@gmail.com",
+      "phone": 9908120509,
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "pan": "436465567890",
+      "account": "567890654323",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 5,
+      "name": "Jock",
+      "role": "User",
+      "password": "Jock@123",
+      "username": "Jockson",
+      "email": "Jock@gmail.com",
+      "phone": 5672130967,
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "pan": "237890543212",
+      "account": "896789674532",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 6,
+      "name": "Priya",
+      "role": "User",
+      "username": "Pinky",
+      "password": "Priya@123",
+      "email": "Priya@gmail.com",
+      "phone": 8142509117,
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Apt. 950",
+        "city": "South Christy",
+        "zipcode": "23505-1337"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "pan": "785634234561",
+      "account": "678976543213",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 7,
+      "name": "Meghana",
+      "role": "User",
+      "password": "Meghana@123",
+      "username": "Maghi",
+      "email": "Meghana@gmail.com",
+      "phone": 9989573731,
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      },
+      "balance": 100,
+      "currentbalance": 1400,
+      "pan": "236789674532",
+      "account": "567894321456",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 8,
+      "name": "Supriya",
+      "role": "User",
+      "password": "Supriya@123",
+      "username": "Supriya Reddy",
+      "email": "Supriya@gmail.com",
+      "phone": 9441161385,
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Suite 729",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "pan": "234567890121",
+      "account": "456789098765",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 9,
+      "name": "Ramya",
+      "role": "User",
+      "password": "Ramya@123",
+      "username": "Ramya",
+      "email": "Ramya@gmail.com",
+      "phone": 9553262176,
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Suite 449",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      },
+      "balance": 500,
+      "currentbalance": 1600,
+      "pan": "346576867892",
+      "account": "345678904321",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 10,
+      "name": "Tom",
+      "role": "User",
+      "password": "Tom@123",
+      "username": "Mahesh",
+      "email": "Mahesh@gmail.com",
+      "phone": 9492685904,
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Suite 198",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      },
+      "pan": "123456788881",
+      "balance": 100,
+      "currentbalance": 1000,
+      "account": "345678904323",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 11,
+      "name": "Pavani",
+      "username": "Pavani",
+      "email": "Pavani@gmail.com",
+      "phone": 7288879614,
+      "pan": "567890452345",
+      "account": "546789765432",
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "name": "Ram",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "pan": "",
+      "account": "",
+      "id": 12
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "Vani ",
+      "password": "Vani@123",
+      "username": "Vani Sri",
+      "email": "Vani@gmail.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 2,
+      "name": "Madhuri",
+      "password": "Madhuri@123",
+      "username": "Madhu",
+      "email": "Madhuri@gmail.com",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 3,
+      "name": "Supraja",
+      "password": "Supraja@123",
+      "username": "Suppi",
+      "email": "Supraja@gmail.com",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157"
+      },
+      "balance": 2100,
+      "currentbalance": 1300,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 4,
+      "name": "Abarna",
+      "password": "Abarna@123",
+      "username": "Abarna",
+      "email": "Abarna@gmail.com",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "cType": "current",
+      "sType": "savings"
+    },
+    {
+      "id": 5,
+      "name": "Harika",
+      "username": "Harika",
+      "email": "Harika@gmail.com",
+      "password": "Harika@123",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "balance": 100,
+      "currentbalance": 1000,
+      "cType": "current",
+      "sType": "savings"
+    }
+  ]
+}
